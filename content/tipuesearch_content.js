@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'This is  https://github.com/mdecourse/cmstemplate \n \n \n', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': '分組倉儲： https://github.com/40823204/cd2021-bg24 \n \n \n', 'tags': '', 'url': 'About.html'}]};
