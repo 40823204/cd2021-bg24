@@ -27,14 +27,14 @@
 <v t="leo.20210315232214.1"><vh>silde 4-2</vh></v>
 <v t="leo.20210315232217.1"><vh>silde 4-3</vh></v>
 </v>
+<v t="leo.20200818171312.1"><vh>slide 8</vh></v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20210315235958.1"><vh>newHeadline</vh>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20210315235623.1"><vh>slide6-1</vh></v>
 </v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
-<v t="leo.20200818171312.1"><vh>slide 8</vh></v>
-<v t="leo.20200818171344.1"><vh>slide 9</vh></v>
+<v t="leo.20210317184351.1"><vh>slide 9</vh></v>
 </v>
 </v>
 </v>
@@ -192,7 +192,8 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170535.1">&lt;section&gt;&lt;h1&gt;升降機構&lt;/h1&gt;
+<t tx="leo.20200818170535.1">&lt;section&gt;
+&lt;h2&gt; 主題：升降機構&lt;/h2&gt;
 &lt;p&gt;&lt;img alt="" height="400" src="./../images/組合3_0.gif" width="750"/&gt;&lt;/p&gt;動機:大型可用來載人，小型可用在各種自動化機械
 &lt;/section&gt;
 
@@ -222,31 +223,27 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818171215.1">&lt;section&gt;
-&lt;h2&gt;問題-小組倉儲維護&lt;/h2&gt;
+&lt;h2&gt;小組倉儲push問題&lt;/h2&gt;
 &lt;h3&gt;主旨&lt;/h3&gt;
-&lt;p&gt;由組長和組員一同維護小組倉儲，各自推送各自所做的部分，但是卻沒有同步，導致只有組長的倉儲有在運作&lt;p&gt;
+&lt;p&gt;1.,換人推送時，沒有git pull會遇到的問題&lt;p&gt;
+&lt;p&gt;2.另外一個組員push完後，沒有Pull request，導致網站被覆蓋&lt;p&gt;
+
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818171244.1">&lt;section&gt;
-&lt;h2&gt;分組有效方案&lt;/h2&gt;
-&lt;h4&gt;我覺得可以自己挑選合作夥伴是一件非常棒的事，一起分工，完成各自的任務。這就是這學期最主要要求的協同吧&lt;/h4&gt;
+&lt;h2&gt;分組協同是否有效&lt;/h2&gt;
+&lt;p&gt;我覺得可以自己挑選合作夥伴是一件非常棒的事，一起分工，完成各自的任務。這就是這學期最主要要求的協同吧。&lt;/p&gt;
+
 &lt;/section&gt;
+
+
 
 </t>
 <t tx="leo.20200818171312.1">&lt;section&gt;
-&lt;h2&gt;LEO EDITOR的採用&lt;/h2&gt;
-&lt;h4&gt; 採用:&lt;/h4&gt;
-&lt;h4&gt;優點:操作介面簡單、使用REVEAL能當簡報、能連結到自己的網頁&lt;/h4&gt;
-&lt;h4&gt;缺點:上傳前要跑程式指令(LOCAL-BLOG、GITHUB-BLOG)、如2人以上同時使用，可能會造成頁面ERROR&lt;/h4&gt;
-&lt;h4&gt;不採用&lt;/h4&gt;
-&lt;h4&gt;優點:編輯完直接案就能轉靜態，不須打程式指令&lt;/h4&gt;
-&lt;h4&gt;缺點:少會一種編輯方式&lt;/h4&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171344.1">&lt;section&gt;
-&lt;h1&gt;心得&lt;/h1&gt;
-&lt;h3&gt;這次的兩人協同，我真的有很深的體驗，從分配工作到一起討論問題，最後一起解決問題，真的很有成就感。之後還有4人、8人期待有更不同更深入的協同體驗。&lt;/h3&gt;
+&lt;h3&gt;舊版零件更新過程&lt;/h3&gt;
+&lt;p&gt;&lt;image src="./../images/底板.jpg"  height="400" width="500"/&gt; &lt;/p&gt;
+&lt;p&gt;在底部開圓孔以配合驅動輪&lt;/p&gt;
 &lt;/section&gt;
 </t>
 <t tx="leo.20210315232046.1">&lt;section&gt;
@@ -278,6 +275,11 @@ vertical: body pane on the botton</t>
      @others
 &lt;/section&gt;
 
+</t>
+<t tx="leo.20210317184351.1">&lt;section&gt;
+&lt;h2&gt;心得&lt;/h2&gt;
+&lt;h4&gt;這次分組我覺得最重要的是兩人的合作，要如何依據個人的特長來協同，在有效期限內完成報告，對我們來說最多的體驗是如何完成CoppeliaSim的模擬和協同時所遇到問題的解決方法，雖然目前只有兩人協同，卻也學到了許多東西。&lt;/h4&gt;
+&lt;/section&gt;
 </t>
 </tnodes>
 </leo_file>
